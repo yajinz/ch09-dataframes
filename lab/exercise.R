@@ -1,4 +1,4 @@
-# Create a vector of 100 Credit Card Users ("User 1", "User 2", ... "User 100) (Using a loop)
+# Create a vector of 100 Credit Card Users
 
 # Create a vector of amount of money owed using the runif function
 
@@ -21,3 +21,5 @@
 # Who was the user with the largest amount paid? 
 
 # What was the average "Difference"?
+
+# challenge: how to use dplyr to answer these questions?
