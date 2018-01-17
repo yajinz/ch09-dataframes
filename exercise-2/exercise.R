@@ -1,10 +1,11 @@
-# Create a vector of 100 employees ("Employee 1", "Employee 2", ... "Employee 100)
+# Create a vector of 100 employees ("Employee 1", "Employee 2", ... "Employee 100")
 
 
 # Create a vector of 2014 salaries using the runif function
 
 
-# Create a vector of 2015 salaries that are typically higher than the 2014 salaires (use runif again)
+## Create a vector of 2015 salaries that are typically higher than the 2014 salaires (use runif again).
+## Hint: you can either multiply random numbers by (a number > 1), or add a positive number.
 
 
 # Create a data.frame 'salaries' by combining the vectors you just made
@@ -48,6 +49,7 @@
 
 
 # Is that what you expected them to lose?
+
 
 ### Double Bonus (no answer given) ###
 

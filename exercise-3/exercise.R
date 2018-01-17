@@ -1,6 +1,6 @@
 # Exercise 3: Working with Data Frames
 
-# Load R's "USPersonalExpenditure" dataest using the `data()` function
+# Load R's "USPersonalExpenditure" dataset using the `data()` function
 
 
 # The variable USPersonalExpenditure is now accessible to you. Unfortunately, it's not a data.frame
@@ -24,14 +24,15 @@
 
 # Create a column `category` that is equal to your rownames
 
-
+## Answer the following questions by extracting data from the dataframe:
 # How much money was spent on personal care in 1940?
 
 
 # How much money was spent on Food and Tobacco in 1960
 
+## What was the highest expenditure category in 1960?
+## Hint: check out the function 'which.max'
 
-# What was the highest expenditure category in 1960?
 
 
 ### Bonus ###
