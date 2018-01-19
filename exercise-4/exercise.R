@@ -1,12 +1,20 @@
 # Exercise 4: Gates Foundation Educational Grants
 
-# Read data into a variable called `grants` using the `read.csv` function
-# Make sure *not* to read the strings as factors
+## -------------------- read the data --------------------
+## Read data into a variable called `grants` using the `read.csv` function
+## Make sure *not* to read the strings as factors
 
-# Use the View function to look at your data
+## -------------------- explore the data --------------------
+
+## Use the View function to look at your data (if you are using RStudio)
+
+## print a few first lines of the data
+## Hint: check out the function 'head'
+
+## print a few last lines of the data 
 
 
-# Create a variable `spending` as the `total_amount` column of the dataset
+## Create a variable `spending` as the `total_amount` column of the dataset
 
 
 # Confirm that your `spending` variable is a vector using the `is.vector` function
@@ -15,7 +23,9 @@
 # Create a variable `org` as the `organization` column of the dataset.
 
 
-### Now you can ask some more interesting questions about the dataset.  Store your answers in variables ###
+## -------------------- analyze --------------------
+## Now you can ask some more interesting questions about the dataset.  Store your answers in
+## variables
 
 # What was the mean grant value?
 

@@ -2,7 +2,7 @@
 
 In this exercise, you'll combining **vectors** into **dataframe**.
 
-* Create a data frame
+* Create a data frame, take data from the web
 * add columns
 * compute additonal columns
 

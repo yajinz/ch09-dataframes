@@ -1,11 +1,14 @@
 # Create a vector of 100 employees ("Employee 1", "Employee 2", ... "Employee 100")
 
 
-# Create a vector of 2014 salaries using the runif function
+## Create a random vector of 2014 salaries.
+## Hint: you may use the runif function to create uniform random numbers.
 
 
 ## Create a vector of 2015 salaries that are typically higher than the 2014 salaires (use runif again).
 ## Hint: you can either multiply random numbers by (a number > 1), or add a positive number.
+## However, please ensure the 2015 results include both larger and smaller numbers than
+## 2014 results.
 
 
 # Create a data.frame 'salaries' by combining the vectors you just made

@@ -3,7 +3,7 @@
 In this exercise, you'll practice asking questions of a data frame
 element that you create.
 
-* create stochastic data
+* create random data
 * answer questions based on data
 
 As in previous exercises, you should fork and clone this repository,

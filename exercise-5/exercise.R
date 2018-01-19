@@ -13,16 +13,16 @@
 # Create a vector `prop` as the proportion column of the dataset
 
 
-# Create a vector `names.2013` as your name vector where your year vector is 2013
+# Create a vector `names.2013` containing only names that were given 2013
 
 
-# Create a vector `prop.2013` as the your prop vector where your year vecctor is 2013
+## Create a vector `prop.2013` containing only frequency (proportion) of the names given in 2013
 
 
 # What was the most popular female name in 2013?
 
 
-# Write a funciton `MostPopular` that takes in a value `my.year`, and returns
+# Write a function `MostPopular` that takes in a value `my.year`, and returns
 # a sentence stating the most popular name in that year. 
 
 
