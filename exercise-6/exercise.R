@@ -18,9 +18,9 @@
 # What is the score of the game where the Huskies had the most combined yards?
 
 
-# Write a function `MostYardsScore` that takes in a dataframe parameter `games` and returns a descriptive sentence
-# about the game that was played that had the most yards scored in it.
-# Take note of the steps from above including the opposing team, score, and date the game was played
+## Write a function `MostYardsScore` that takes in a dataframe parameter `games` and returns a descriptive sentence
+## about the game that was played that had the most yards scored in it.  
+## Include the opposing team, score, and date the game was played in the sentence.
 
 
 # What was the highest yardage game so far last season?
@@ -34,5 +34,3 @@
 # Create a vector `where.played` that corresponds to what you found.
 # Add the vector `where.played` as a new column to `husky.games.2016`
 # Hint: For bowl games simply listing "bowl" will be fine.
-
-
