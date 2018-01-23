@@ -1,5 +1,5 @@
 # Create a vector of 100 employees ("Employee 1", "Employee 2", ... "Employee 100")
-
+vector <- paste("Employee",1:100)
 
 ## Create a random vector of 2014 salaries.
 ## Hint: you may use the runif function to create uniform random numbers.
